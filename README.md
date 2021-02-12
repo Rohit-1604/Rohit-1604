@@ -1,5 +1,6 @@
 ### Hi ,I am Rohit Baghel 👋
-
+- 🌱 I’m currently learning everything 🤣🤣...
+-
 <!--
 **Rohit-1604/Rohit-1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
