@@ -21,5 +21,6 @@
 
 [![Rohit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rohit-1604&theme=xcode)](https://git.io/Rohit-1604)
    <br />
-
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohit-1604&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   <br />
 
