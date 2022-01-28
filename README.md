@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rohit Sagar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Trying to explore more!</h2>
 
-<p align="center"> <img src="https://octodex.github.com/images/catstello.png" height="200px" width="200px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/tentocats.jpg" height="200px" width="200px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 
 
