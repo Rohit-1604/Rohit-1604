@@ -5,17 +5,16 @@
 
 ## :wave: About Me 
 
-<a href="https://twitter.com/Rohit_Baghel16" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/rohit-singh-sagar-0702b918b/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/rohit-singh-sagar-0702b918b/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 😇 Hey! I'm Rohit Sagar, a Pre-final year Student of SMIT,Sikkim, India. My preferred pronouns are **he/him**.
 
-:octocat: a Developer 💖who is eager to learn new things :octocat:! 
+:octocat: A Developer 💖Who is eager to learn new things :octocat:! 
  
 
 👩‍💻 Nowadays, I’m working on my logical fundamentals of programming.  
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google, Youtube and Stack Overflow 😪
-
 
 <br> 
 
