@@ -1,3 +1,11 @@
+<h1 align="center">Hey, I'm Rohit Sagar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">Trying to explore more!</h2>
+
+<p align="center"> <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+
+
+
 ### Hi ,I am Rohit Baghel 👋🖐👋👋
 - 🌱 I’m currently learning everything ...
 - 🚀 2021 Goals: Contribute to Open Source Projects ... 
