@@ -33,4 +33,3 @@
 <a href="https://github.com/Rohit-1604/Rohit-1604">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-1604&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rohit's GitHub Stats" />
 </a>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohit-1604&theme=prussian&hide_border=true)](https://git.io/streak-stats)<br />
